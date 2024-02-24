@@ -1,5 +1,6 @@
 # linecode
-## Front-end Developer stack:
+Your first task: create a new repository, create a README.nd file and upload another file.
+## Front_end Developer stack:
 
 *HTML
 ﻿﻿*CSS
