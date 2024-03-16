@@ -5,5 +5,5 @@ Your first task: create a new repository, create a README.nd file and upload ano
 *HTML
 ﻿﻿*CSS
 ﻿﻿*JavaScript
-) MongoDB (Query):
+) MongoDB (query):
 db.users.find({ age: { $gt: 18 } });
